@@ -8,8 +8,8 @@ import numpy as np
 
 def main():
 
-    x = np.random.rand(100)
-    y = 10 + 5 * x
+    x = np.random.rand(100)     # creat 100 numbers from 0 to 1.
+    y = 10 + 5 * x              # 
 
     print(len(x), len(y))
     epsilon = 0.01   # iterative threshold
