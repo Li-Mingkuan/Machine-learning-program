@@ -1,6 +1,6 @@
 """
-    gradient descent method
-
+    gradient descent method1：
+    gradient methods with fixed step size
 """
 
 import numpy as np
